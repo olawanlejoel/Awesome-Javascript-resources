@@ -32,6 +32,11 @@ A curated list of JavaScript resources for beginners
 
 ### Videos
 
+ - [Introduction to JavaScript](https://www.youtube.com/watch?v=_y9oxzTGERs) - By freeCodeCamp
+ - [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - By Mosh
+ - [Javascript beginner tutorial 1 - Introduction to JavaScript](https://www.youtube.com/watch?v=jkTzHEtHd54) - By Quentin Watt Tutorials
+
+
 ## Comments in JavaScript
 
 *Writing comments in JavaScript.*
@@ -42,12 +47,13 @@ A curated list of JavaScript resources for beginners
  - [Comments - JavaScript.info](https://javascript.info/comments)
  - [JavaScript comment - javatpoint](https://www.javatpoint.com/javascript-comment)
  - [How to Write Comments in JavaScript - Tutorial Republic](https://www.tutorialrepublic.com/faq/how-to-write-comments-in-javascript.php)
- - 
-
-
-### 
 
 ### Videos
+
+ - [How to Comment Code - JavaScript Tutorial](https://www.youtube.com/watch?v=0ytpp7Minc4) - By Easy Learn Tutorial
+ - [How To Write Comments In JavaScript](https://www.youtube.com/watch?v=9eRSZpG23gs) - by JavaScript Tutorials
+ - [JavaScript Comments](https://www.youtube.com/watch?v=8w0sxLVZLE4)
+
 
 ## Variable Declaration
 
@@ -61,8 +67,20 @@ A curated list of JavaScript resources for beginners
  - [Variables - JavaScript.info](https://javascript.info/variables)
  - [Variables and Datatypes in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/variables-datatypes-javascript/)
  - [The Ultimate Guide to JavaScript Variables: var, let, and const ...](https://www.javascripttutorial.net/javascript-variables/)
+ - [Global and Local variables in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/global-and-local-variables-in-javascript/)
+ - [Understanding Local and Global Variables in JavaScript](https://www.dotnettricks.com/learn/javascript/understanding-local-and-global-variables-in-javascript)
+ - [What is the difference between global and local Variables in JavaScript](https://www.tutorialspoint.com/What-is-the-difference-between-global-and-local-Variables-in-JavaScript#:~:text=JavaScript%20variables%20have%20only%20two,always%20local%20to%20that%20function.)
 
 ### Videos
+
+ - [JavaScript how to properly declare a variable](https://www.youtube.com/watch?v=v1Q7pkcpShs) - by techsith
+ - [Variables in JavaScript](https://www.youtube.com/watch?v=PL5VX5Iab3Y) - by Kirupa Chinnathambi
+ - [Variables - JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=TlrbYH8zo18) - by Easy Learn Tutorial
+ - [Javascript Variables Explained](https://www.youtube.com/watch?v=Fo5FyZkmpIM) - by Clever Techie
+ - [Local and global variables in javascript](https://www.youtube.com/watch?v=g4FG9lwIfEw) - by kudvenkat
+ - [Javascript Variables & Data Types](https://www.youtube.com/watch?v=edlFjlzxkSI) - by Dev Ed
+ - [How to Create Variables in JavaScript](https://www.youtube.com/watch?v=9aGIAL16DL4) - by mmtuts
+ - [JavaScript Variables](https://www.youtube.com/watch?v=u0Mq3FzpsmI) - by The Net Ninja
 
 ## Data Types
 
@@ -78,6 +96,12 @@ A curated list of JavaScript resources for beginners
  - [Variables and Datatypes in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/variables-datatypes-javascript/)
 
 ### Videos
+
+ - [JavaScript: Introduction to Data Types](https://www.youtube.com/watch?v=qfN0AjnZNhw) - by Renaissance Coders
+ - [Intro to Data Types | JavaScript 101 Tutorials](https://www.youtube.com/watch?v=_r_LCMBvxmg) - by Devmountain | Lehi
+ - [Common Datatypes In JavaScript](https://www.youtube.com/watch?v=0tykxma-3TU) - by mmtuts
+ - [Different Data Types in JavaScript](https://www.youtube.com/watch?v=O9by2KcR2v4) - by mmtuts
+ - [JavaScript Tutorial | Variables & Data Types](https://www.youtube.com/watch?v=Hrd3SfCCXZw) - by Telusko
 
 ## Operators in JavaScript
 
@@ -97,6 +121,10 @@ A curated list of JavaScript resources for beginners
 
 ### Videos
 
+ - [Different Types of Operators in JavaScript](https://www.youtube.com/watch?v=FZzyij43A54) - by mmtuts
+ - [JavaScript Tutorial | Operators](https://www.youtube.com/watch?v=ULNJSTSJc7s) - by Telusko
+ - [Logical Operators](https://www.youtube.com/watch?v=9cjprgamsrY) - by codedamn
+
 ## Strings
 
 *Understanding Strings.*
@@ -113,6 +141,13 @@ A curated list of JavaScript resources for beginners
  - [JavaScript | Strings - GeeksforGeeks](https://www.geeksforgeeks.org/javascript-strings/)
 
 ### Videos
+
+ - [20 String Methods in 7 Minutes](https://www.youtube.com/watch?v=VRz0nbax0uI) - by freeCodeCamp
+ - [JavaScript Strings](https://www.youtube.com/watch?v=09BwruU4kiY) - by Programming with Mosh
+ - [String Operator in JavaScript Explained](https://www.youtube.com/watch?v=uli67N4Z03Y) - by mmtuts
+ - [Working With Strings | JavaScript](https://www.youtube.com/watch?v=3JJyYmkXMSA) - by Mike Dane
+ - [Strings in JavaScript](https://www.youtube.com/watch?v=hoa2VhyHX4w) - by kudvenkat
+
 
 ## Concatenation
 
