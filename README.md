@@ -17,3 +17,41 @@ A curated list of JavaScript resources for beginners
     - [Loops](#loops)
     
 ## Introduction to JavaScript
+
+*Things you need to know to get started with JavaScript.*
+
+### Articles
+
+### Videos
+
+## Comments in JavaScript
+
+*Writing comments in JavaScript.*
+
+### Articles
+
+### Videos
+
+## Variable Declaration
+
+*Declaring variables in Javascript.*
+
+### Articles
+
+### Videos
+
+## Data Types
+
+*Writing comments in JavaScript.*
+
+### Articles
+
+### Videos
+
+## Operators in JavaScript
+
+*Writing comments in JavaScript.*
+
+### Articles
+
+### Videos
