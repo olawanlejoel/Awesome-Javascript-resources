@@ -22,6 +22,13 @@ A curated list of JavaScript resources for beginners
 
 ### Articles
 
+ - [JavaScript Introduction - W3Schools](https://www.w3schools.com/js/js_intro.asp) 
+ - [An Introduction to JavaScript - Javascript.info](https://javascript.info/intro) 
+ - [What is JavaScript? Complete Introduction](https://www.guru99.com/introduction-to-javascript.html)
+ - [Introduction - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+ - [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+ - [Introduction to JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-javascript/)
+
 ### Videos
 
 ## Comments in JavaScript
