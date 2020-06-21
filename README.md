@@ -42,7 +42,7 @@ A curated list of JavaScript resources for beginners
 
 ## Data Types
 
-*Writing comments in JavaScript.*
+*Understanding the various Data types in JavaScript.*
 
 ### Articles
 
@@ -50,7 +50,63 @@ A curated list of JavaScript resources for beginners
 
 ## Operators in JavaScript
 
-*Writing comments in JavaScript.*
+*Various Operators in JavaScript.*
+
+### Articles
+
+### Videos
+
+## Strings
+
+*Understanding Strings.*
+
+### Articles
+
+### Videos
+
+## Concatenation
+
+*Various ways to concatenate.*
+
+### Articles
+
+### Videos
+
+## Arrays
+
+*Understanding arrays and how to manipulate arrays.*
+
+### Articles
+
+### Videos
+
+## Function
+
+*Understanding functions and how it can be used.*
+
+### Articles
+
+### Videos
+
+## Objects
+
+*Objects in JavaScript.*
+
+### Articles
+
+### Videos
+
+## Conditions
+
+*Conditional statement in Javascript.*
+
+### Articles
+
+### Videos
+
+## Loops
+
+*Detailed resources to perfectly understand Loops.*
 
 ### Articles
 
