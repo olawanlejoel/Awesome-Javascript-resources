@@ -230,15 +230,44 @@ A curated list of JavaScript resources for beginners
 
 ### Articles
 
+ - [JavaScript Objects - W3Schools](https://www.w3schools.com/js/js_objects.asp)
+ - [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+ - [Objects | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-objects)
+ - [Objects - JavaScript.info](https://javascript.info/object)
+ - [Objects in Javascript - GeeksforGeeks](https://www.geeksforgeeks.org/objects-in-javascript/)
+ - [Data Structures: Objects and Arrays :: Eloquent JavaScript](https://eloquentjavascript.net/04_data.html)
+ - [JavaScript Object - TutorialsTeacher](https://www.tutorialsteacher.com/javascript/javascript-object)
+ - [JavaScript Objects - javatpoint](https://www.javatpoint.com/javascript-objects)
+ - [How to create objects in JavaScript - freeCodeCamp.org](https://www.freecodecamp.org/news/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8/)
+ - [Working with Javascript Objects and Arrays | UniversalClass](https://www.universalclass.com/articles/computers/javascript/working-with-javascript-objects-and-arrays.htm)
+ - [How To Use Object Methods in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript)
+ - [A Deeper Look at Objects in JavaScript - Kirupa](https://www.kirupa.com/html5/a_deeper_look_at_objects_in_javascript.htm)
+
 ### Videos
 
-## Conditions
+ - [What Are Objects in JavaScript & How to create them](https://www.youtube.com/watch?v=4uVwGw317QM) - by mmtuts
+ - [JavaScript - Objects](https://www.youtube.com/watch?v=bNdFQc-AlEQ) - by Yusuf Shakeel
+ - [What's an Object in JavaScript?](https://www.youtube.com/watch?v=8iXoWC9XcU8) - by O'Reilly
+ - [JavaScript OBJECTS in ONE Video](https://www.youtube.com/watch?v=37YIF_evtEk) - by Code Explained
+ - [Modern JavaScript Tutorial - Objects](https://www.youtube.com/watch?v=X0ipw1k7ygU) - by The Net Ninja
+ - [Different Ways of Creating Objects in JavaScript](https://www.youtube.com/watch?v=UrM9xgPxq1E) - by Steve Griffith
+
+## Conditional Statements
 
 *Conditional statement in Javascript.*
 
 ### Articles
 
+ - ...
+
 ### Videos
+
+ - [How to Create Conditions in JavaScript](https://www.youtube.com/watch?v=N4V0FZASK60) - by mmtuts
+ - [How to use if/else conditions in JavaScript](https://www.youtube.com/watch?v=vp6GWYJl878) - by Zenva
+ - [Conditional statements in javascript](https://www.youtube.com/watch?v=TPDz_84UJGw) - by kudvenkat
+ - [JavaScript if else (tutorial)](https://www.youtube.com/watch?v=IsG4Xd6LlsM) - by Programming with Mosh
+ - [complex conditions](https://www.youtube.com/watch?v=G7Ynas6GLZ0) - by Quentin Watt Tutorials
+ - [Conditionals (if statement)](https://www.youtube.com/watch?v=HQTUwz1slAQ) - by sentdex
 
 ## Loops
 
