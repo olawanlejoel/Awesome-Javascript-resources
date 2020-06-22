@@ -17,7 +17,7 @@ A curated list of JavaScript resources for beginners
     - [Loops](#loops)
 - [ES6](#es6)
 
-
+## Basic JavaScript
     
 ### Introduction to JavaScript
 
@@ -32,36 +32,36 @@ A curated list of JavaScript resources for beginners
  - [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
  - [Introduction to JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-javascript/)
 
-### Videos
+#### Videos
 
  - [Introduction to JavaScript](https://www.youtube.com/watch?v=_y9oxzTGERs) - By freeCodeCamp
  - [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - By Mosh
  - [Javascript beginner tutorial 1 - Introduction to JavaScript](https://www.youtube.com/watch?v=jkTzHEtHd54) - By Quentin Watt Tutorials
 
 
-## Comments in JavaScript
+### Comments in JavaScript
 
 *Writing comments in JavaScript.*
 
-### Articles
+#### Articles
 
  - [JavaScript Comments - W3Schools](https://www.w3schools.com/js/js_comments.asp)
  - [Comments - JavaScript.info](https://javascript.info/comments)
  - [JavaScript comment - javatpoint](https://www.javatpoint.com/javascript-comment)
  - [How to Write Comments in JavaScript - Tutorial Republic](https://www.tutorialrepublic.com/faq/how-to-write-comments-in-javascript.php)
 
-### Videos
+#### Videos
 
  - [How to Comment Code - JavaScript Tutorial](https://www.youtube.com/watch?v=0ytpp7Minc4) - By Easy Learn Tutorial
  - [How To Write Comments In JavaScript](https://www.youtube.com/watch?v=9eRSZpG23gs) - by JavaScript Tutorials
  - [JavaScript Comments](https://www.youtube.com/watch?v=8w0sxLVZLE4)
 
 
-## Variable Declaration
+### Variable Declaration
 
 *Declaring variables in Javascript.*
 
-### Articles
+#### Articles
 
  - [JavaScript Variables - TutorialsTeacher](https://www.tutorialsteacher.com/javascript/javascript-variable#:~:text=JavaScript%20uses%20reserved%20keyword%20var,it%20or%20before%20using%20it.&text=In%20the%20above%20example%2C%20we,%3A%20one%2C%20two%20and%20three.)
  - [JavaScript Variables - W3Schools](https://www.w3schools.com/js/js_variables.asp)
@@ -73,7 +73,7 @@ A curated list of JavaScript resources for beginners
  - [Understanding Local and Global Variables in JavaScript](https://www.dotnettricks.com/learn/javascript/understanding-local-and-global-variables-in-javascript)
  - [What is the difference between global and local Variables in JavaScript](https://www.tutorialspoint.com/What-is-the-difference-between-global-and-local-Variables-in-JavaScript#:~:text=JavaScript%20variables%20have%20only%20two,always%20local%20to%20that%20function.)
 
-### Videos
+#### Videos
 
  - [JavaScript how to properly declare a variable](https://www.youtube.com/watch?v=v1Q7pkcpShs) - by techsith
  - [Variables in JavaScript](https://www.youtube.com/watch?v=PL5VX5Iab3Y) - by Kirupa Chinnathambi
@@ -84,11 +84,11 @@ A curated list of JavaScript resources for beginners
  - [How to Create Variables in JavaScript](https://www.youtube.com/watch?v=9aGIAL16DL4) - by mmtuts
  - [JavaScript Variables](https://www.youtube.com/watch?v=u0Mq3FzpsmI) - by The Net Ninja
 
-## Data Types
+### Data Types
 
 *Understanding the various Data types in JavaScript.*
 
-### Articles
+#### Articles
 
  - [Data types - JavaScript.info](https://javascript.info/types)
  - [JavaScript Data Types - W3Schools](https://www.w3schools.com/js/js_datatypes.asp)
@@ -97,7 +97,7 @@ A curated list of JavaScript resources for beginners
  - [JavaScript data types - javatpoint](https://www.javatpoint.com/javascript-data-types)
  - [Variables and Datatypes in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/variables-datatypes-javascript/)
 
-### Videos
+#### Videos
 
  - [JavaScript: Introduction to Data Types](https://www.youtube.com/watch?v=qfN0AjnZNhw) - by Renaissance Coders
  - [Intro to Data Types | JavaScript 101 Tutorials](https://www.youtube.com/watch?v=_r_LCMBvxmg) - by Devmountain | Lehi
@@ -105,11 +105,11 @@ A curated list of JavaScript resources for beginners
  - [Different Data Types in JavaScript](https://www.youtube.com/watch?v=O9by2KcR2v4) - by mmtuts
  - [JavaScript Tutorial | Variables & Data Types](https://www.youtube.com/watch?v=Hrd3SfCCXZw) - by Telusko
 
-## Operators in JavaScript
+### Operators in JavaScript
 
 *Various Operators in JavaScript.*
 
-### Articles
+#### Articles
 
  - [Javascript Operators - TutorialsTeacher](https://www.tutorialsteacher.com/javascript/javascript-operators#:~:text=JavaScript%20includes%20operators%20as%20in,and%202%20is%20right%20operand.)
  - [JavaScript Operators Reference - W3Schools](https://www.w3schools.com/jsref/jsref_operators.asp)
@@ -121,17 +121,17 @@ A curated list of JavaScript resources for beginners
  - [JavaScript operators - javatpoint](https://www.javatpoint.com/javascript-operators)
  - [JavaScript Operators - Tutorial Republic](https://www.tutorialrepublic.com/javascript-tutorial/javascript-operators.php)
 
-### Videos
+#### Videos
 
  - [Different Types of Operators in JavaScript](https://www.youtube.com/watch?v=FZzyij43A54) - by mmtuts
  - [JavaScript Tutorial | Operators](https://www.youtube.com/watch?v=ULNJSTSJc7s) - by Telusko
  - [Logical Operators](https://www.youtube.com/watch?v=9cjprgamsrY) - by codedamn
 
-## Strings
+### Strings
 
 *Understanding Strings.*
 
-### Articles
+#### Articles
 
  - [String - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
  - [JavaScript Strings - W3Schools](https://www.w3schools.com/js/js_strings.asp)
@@ -142,7 +142,7 @@ A curated list of JavaScript resources for beginners
  - [Strings - JavaScript.com](https://www.javascript.com/learn/strings)
  - [JavaScript | Strings - GeeksforGeeks](https://www.geeksforgeeks.org/javascript-strings/)
 
-### Videos
+#### Videos
 
  - [20 String Methods in 7 Minutes](https://www.youtube.com/watch?v=VRz0nbax0uI) - by freeCodeCamp
  - [JavaScript Strings](https://www.youtube.com/watch?v=09BwruU4kiY) - by Programming with Mosh
@@ -151,11 +151,11 @@ A curated list of JavaScript resources for beginners
  - [Strings in JavaScript](https://www.youtube.com/watch?v=hoa2VhyHX4w) - by kudvenkat
 
 
-## Concatenation
+### Concatenation
 
 *Various ways to concatenate.*
 
-### Articles
+#### Articles
 
  - [3 Ways to Concatenate Strings in JavaScript - Mastering JS](https://masteringjs.io/tutorials/fundamentals/string-concat)
  - [JavaScript | String concat() - GeeksforGeeks](https://www.geeksforgeeks.org/javascript-string-prototype-concat-function/)
@@ -163,18 +163,18 @@ A curated list of JavaScript resources for beginners
  - [Concatenating strings with the + operator - Scripting Master](http://www.scriptingmaster.com/javascript/concatenating-strings-javascript.asp)
  - [How to concatenate multiple string variables in JavaScript?](https://www.tutorialspoint.com/How-to-concatenate-multiple-string-variables-in-JavaScript)
 
-### Videos
+#### Videos
 
  - [Concatenation in Javascript](https://www.youtube.com/watch?v=kX1wEDCe148) - by WebDevMentors
  - [Javascript String Concatenation](https://www.youtube.com/watch?v=9Q8BAZffbz8) - by Dev Ed
  - [Strings and Concatenation in JavaScript](https://www.youtube.com/watch?v=6X0yYyLV7wk) - by Kody Simpson
  - [JavaScript String Concatenation](https://www.youtube.com/watch?v=7ktrTvRhhqk) - by Steve Griffith
 
-## Arrays
+### Arrays
 
 *Understanding arrays and how to manipulate arrays.*
 
-### Articles
+#### Articles
 
  - [JavaScript Arrays - W3Schools](https://www.w3schools.com/js/js_arrays.asp)
  - [Array - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
@@ -189,7 +189,7 @@ A curated list of JavaScript resources for beginners
  - [Hacks for Creating JavaScript Arrays - freeCodeCamp.org](https://www.freecodecamp.org/news/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b/)
  - 
 
-### Videos
+#### Videos
 
  - [JavaScript Arrays](https://www.youtube.com/watch?v=oigfaZ5ApsM) - by Programming with Mosh
  - [Javascript Arrays | Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=8FmBEN0XZyI) - by Dev Ed
@@ -198,11 +198,11 @@ A curated list of JavaScript resources for beginners
  - [JavaScript Tutorial | Introduction to Array](https://www.youtube.com/watch?v=SrT8-9I4WnE) - by Telusko
  - [JavaScript Arrays](https://www.youtube.com/watch?v=5tPO0ncWN9k) - by Chris Walker
 
-## Function
+### Function
 
 *Understanding functions and how it can be used.*
 
-### Articles
+#### Articles
 
  - [Functions - JavaScript - MDN - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
  - [JavaScript Functions - W3Schools](https://www.w3schools.com/js/js_functions.asp)
@@ -217,7 +217,7 @@ A curated list of JavaScript resources for beginners
  - [JavaScript function - javatpoint](https://www.javatpoint.com/javascript-function)
  - [Functions | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
 
-### Videos
+#### Videos
 
  - [JavaScript Functions](https://www.youtube.com/watch?v=N8ap4k_1QEQ) - by Programming with Mosh
  - [Functions - Beau teaches JavaScript](https://www.youtube.com/watch?v=R8SjM4DKK80) - by freeCodeCamp
@@ -227,11 +227,11 @@ A curated list of JavaScript resources for beginners
  - [Javascript Functions](https://www.youtube.com/watch?v=AY6X5jZZ_JE) - by LearnCode.academy
  - [Introduction to functions in javascript](https://www.youtube.com/watch?v=KWk9BNBtFtg) - by Hitesh Choudhary
 
-## Objects
+### Objects
 
 *Objects in JavaScript.*
 
-### Articles
+#### Articles
 
  - [JavaScript Objects - W3Schools](https://www.w3schools.com/js/js_objects.asp)
  - [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
@@ -246,7 +246,7 @@ A curated list of JavaScript resources for beginners
  - [How To Use Object Methods in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript)
  - [A Deeper Look at Objects in JavaScript - Kirupa](https://www.kirupa.com/html5/a_deeper_look_at_objects_in_javascript.htm)
 
-### Videos
+#### Videos
 
  - [What Are Objects in JavaScript & How to create them](https://www.youtube.com/watch?v=4uVwGw317QM) - by mmtuts
  - [JavaScript - Objects](https://www.youtube.com/watch?v=bNdFQc-AlEQ) - by Yusuf Shakeel
@@ -255,15 +255,15 @@ A curated list of JavaScript resources for beginners
  - [Modern JavaScript Tutorial - Objects](https://www.youtube.com/watch?v=X0ipw1k7ygU) - by The Net Ninja
  - [Different Ways of Creating Objects in JavaScript](https://www.youtube.com/watch?v=UrM9xgPxq1E) - by Steve Griffith
 
-## Conditional Statements
+### Conditional Statements
 
 *Conditional statement in Javascript.*
 
-### Articles
+#### Articles
 
  - ...
 
-### Videos
+#### Videos
 
  - [How to Create Conditions in JavaScript](https://www.youtube.com/watch?v=N4V0FZASK60) - by mmtuts
  - [How to use if/else conditions in JavaScript](https://www.youtube.com/watch?v=vp6GWYJl878) - by Zenva
@@ -272,10 +272,10 @@ A curated list of JavaScript resources for beginners
  - [complex conditions](https://www.youtube.com/watch?v=G7Ynas6GLZ0) - by Quentin Watt Tutorials
  - [Conditionals (if statement)](https://www.youtube.com/watch?v=HQTUwz1slAQ) - by sentdex
 
-## Loops
+### Loops
 
 *Detailed resources to perfectly understand Loops.*
 
-### Articles
+#### Articles
 
-### Videos
+#### Videos
