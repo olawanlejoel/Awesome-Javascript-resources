@@ -1,3 +1,4 @@
+
 # Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of JavaScript resources for beginners
@@ -16,6 +17,16 @@ A curated list of JavaScript resources for beginners
     - [Conditions](#conditions)
     - [Loops](#loops)
 - [ES6](#es6)
+	- [Introduction to ES6](#introduction-to-es6)
+	- [Generators](#generators)
+	- [Promises](#promises)
+	- [Arrow Functions](#arrow-functions)
+	- [New String & Number Methods](#new-strings-&-number-methods)
+	- [Classes and Inheritance](#classes-and-inheritance)
+	- [Let and Const Declaration](#let-and-const-declaration)
+	- [Default Param & Spread Operators](#default-param-&-spread-operators))
+	- [Map, Weakset & WeakMap](#map,weakset-&-weakmap)
+	- [Template Literals](#template-literals)
 
 ## Basic JavaScript
     
