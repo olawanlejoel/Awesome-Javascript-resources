@@ -279,3 +279,6 @@ A curated list of JavaScript resources for beginners
 #### Articles
 
 #### Videos
+
+
+## ES6
