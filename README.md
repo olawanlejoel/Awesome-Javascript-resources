@@ -1,7 +1,7 @@
 
 # Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of JavaScript resources for beginners
+A curated list of Awesome JavaScript Learning resources
 
 - [Awesome JavaScript](#awesome-JavaScript)
     - [Introduction to JavaScript](#introduction-to-JavaScript)
