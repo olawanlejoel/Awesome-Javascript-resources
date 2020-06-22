@@ -2,7 +2,7 @@
 
 A curated list of JavaScript resources for beginners
 
-- [Awesome JavaScript](#awesome-JavaScript)
+- [Basic JavaScript](#basic-JavaScript)
     - [Introduction to JavaScript](#introduction-to-JavaScript)
     - [Comments in JavaScript](#comments-in-JavaScript)
     - [Variable Declaration](#variable-declaration)
@@ -15,12 +15,15 @@ A curated list of JavaScript resources for beginners
     - [Objects](#objects)
     - [Conditions](#conditions)
     - [Loops](#loops)
+- [ES6](#es6)
+
+
     
-## Introduction to JavaScript
+### Introduction to JavaScript
 
 *Things you need to know to get started with JavaScript.*
 
-### Articles
+#### Articles
 
  - [JavaScript Introduction - W3Schools](https://www.w3schools.com/js/js_intro.asp) 
  - [An Introduction to JavaScript - Javascript.info](https://javascript.info/intro) 
