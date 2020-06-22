@@ -1,7 +1,6 @@
-
 # Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Awesome JavaScript Learning resources
+A curated list of JavaScript resources for beginners
 
 - [Awesome JavaScript](#awesome-JavaScript)
     - [Introduction to JavaScript](#introduction-to-JavaScript)
@@ -155,7 +154,18 @@ A curated list of Awesome JavaScript Learning resources
 
 ### Articles
 
+ - [3 Ways to Concatenate Strings in JavaScript - Mastering JS](https://masteringjs.io/tutorials/fundamentals/string-concat)
+ - [JavaScript | String concat() - GeeksforGeeks](https://www.geeksforgeeks.org/javascript-string-prototype-concat-function/)
+ - [JavaScript String concat() Method - W3Schools](https://www.w3schools.com/jsref/jsref_concat_string.asp#:~:text=The%20concat()%20method%20is,text%20of%20the%20joined%20strings.)
+ - [Concatenating strings with the + operator - Scripting Master](http://www.scriptingmaster.com/javascript/concatenating-strings-javascript.asp)
+ - [How to concatenate multiple string variables in JavaScript?](https://www.tutorialspoint.com/How-to-concatenate-multiple-string-variables-in-JavaScript)
+
 ### Videos
+
+ - [Concatenation in Javascript](https://www.youtube.com/watch?v=kX1wEDCe148) - by WebDevMentors
+ - [Javascript String Concatenation](https://www.youtube.com/watch?v=9Q8BAZffbz8) - by Dev Ed
+ - [Strings and Concatenation in JavaScript](https://www.youtube.com/watch?v=6X0yYyLV7wk) - by Kody Simpson
+ - [JavaScript String Concatenation](https://www.youtube.com/watch?v=7ktrTvRhhqk) - by Steve Griffith
 
 ## Arrays
 
@@ -163,7 +173,27 @@ A curated list of Awesome JavaScript Learning resources
 
 ### Articles
 
+ - [JavaScript Arrays - W3Schools](https://www.w3schools.com/js/js_arrays.asp)
+ - [Array - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+ - [Arrays - JavaScript.info](https://javascript.info/array)
+ - [Arrays | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-arrays)
+ - [Arrays in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/arrays-in-javascript/)
+ - [Data Structures: Objects and Arrays :: Eloquent JavaScript](https://eloquentjavascript.net/04_data.html)
+ - [JavaScript - The Arrays Object - Tutorialspoint](https://www.tutorialspoint.com/javascript/javascript_arrays_object.htm)
+ - [JavaScript array - javatpoint](https://www.javatpoint.com/javascript-array)
+ - [Arrays - Learn JavaScript - Free Interactive JavaScript Tutorial](https://www.learn-js.org/en/Arrays)
+ - [Manipulating Arrays in JavaScript - Bolaji Ayodeji](https://bolajiayodeji.com/manipulating-arrays-in-javascript-cjvuuty3500354js1sba6z6yr)
+ - [Hacks for Creating JavaScript Arrays - freeCodeCamp.org](https://www.freecodecamp.org/news/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b/)
+ - 
+
 ### Videos
+
+ - [JavaScript Arrays](https://www.youtube.com/watch?v=oigfaZ5ApsM) - by Programming with Mosh
+ - [Javascript Arrays | Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=8FmBEN0XZyI) - by Dev Ed
+ - [8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c) - by Web Dev Simplified
+ - [Array in JavaScript | JavaScript Array Methods](https://www.youtube.com/watch?v=5kFOWBh5zKE) - by edureka!
+ - [JavaScript Tutorial | Introduction to Array](https://www.youtube.com/watch?v=SrT8-9I4WnE) - by Telusko
+ - [JavaScript Arrays](https://www.youtube.com/watch?v=5tPO0ncWN9k) - by Chris Walker
 
 ## Function
 
@@ -171,7 +201,28 @@ A curated list of Awesome JavaScript Learning resources
 
 ### Articles
 
+ - [Functions - JavaScript - MDN - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+ - [JavaScript Functions - W3Schools](https://www.w3schools.com/js/js_functions.asp)
+ - [Functions - JavaScript.info](https://javascript.info/function-basics)
+ - [JavaScript Functions — Understanding The Basics - codeburst](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+ - [JavaScript - Functions - Tutorialspoint](https://www.tutorialspoint.com/javascript/javascript_functions.htm)
+ - [Function in JavaScript - TutorialsTeacher](https://www.tutorialsteacher.com/javascript/javascript-function)
+ - [Functions :: Eloquent JavaScript](https://eloquentjavascript.net/03_functions.html)
+ - [Functions in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/functions-in-javascript/)
+ - [JavaScript Define & Call Functions with Example - Guru99](https://www.guru99.com/learn-functions-in-javascript-in-5-minutes.html)
+ - [Functions - Learn JavaScript](https://www.learn-js.org/en/Functions)
+ - [JavaScript function - javatpoint](https://www.javatpoint.com/javascript-function)
+ - [Functions | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
+
 ### Videos
+
+ - [JavaScript Functions](https://www.youtube.com/watch?v=N8ap4k_1QEQ) - by Programming with Mosh
+ - [Functions - Beau teaches JavaScript](https://www.youtube.com/watch?v=R8SjM4DKK80) - by freeCodeCamp
+ - [JavaScript Functions](https://www.youtube.com/watch?v=QX3kGsfGqz8) - by edureka!
+ - [JavaScript Functions Tutorial for Beginners](https://www.youtube.com/watch?v=bBDcmLgyyJ8) - by Clever Techie
+ - [Functions in Javascript for beginners](https://www.youtube.com/watch?v=0yRiAoV-p1U) - by Awais Mirza
+ - [Javascript Functions](https://www.youtube.com/watch?v=AY6X5jZZ_JE) - by LearnCode.academy
+ - [Introduction to functions in javascript](https://www.youtube.com/watch?v=KWk9BNBtFtg) - by Hitesh Choudhary
 
 ## Objects
 
