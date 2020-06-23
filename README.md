@@ -398,14 +398,44 @@ A curated list of JavaScript resources for beginners
 
 #### Articles
 
+ - [JavaScript Arrow Function - W3Schools](https://www.w3schools.com/js/js_arrow_function.asp)
+ - [Arrow function expressions - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+ - [Arrow functions, the basics - JavaScript.info](https://javascript.info/arrow-functions-basics)
+ - [Getting Started with ES6 Arrow Functions in JavaScript](https://www.digitalocean.com/community/tutorials/getting-started-with-es6-arrow-functions-in-javascript)
+ - [When (and why) you should use ES6 arrow functions](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
+ - [A Gentle Introduction to JavaScript Arrow Function](https://www.javascripttutorial.net/es6/javascript-arrow-function/)
+ - [A tutorial to JavaScript Arrow Functions - Flavio Copes](https://flaviocopes.com/javascript-arrow-functions/)
+ - 
 #### Videos
 
-### New String & Number Methods
+ - [JavaScript ES6 Arrow Functions Tutorial](https://www.youtube.com/watch?v=h33Srr5J9nY) - by Web Dev Simplified
+ - [Javascript ES6 - Arrow Functions](https://www.youtube.com/watch?v=qMgP1Q-E4MI) - by DoingITeasyChannel
+ - [ES6 Arrow Function](https://www.youtube.com/watch?v=mrYMzpbFz18) - by The Coding Train
+ - [Arrow functions in JavaScript - What, Why and How](https://www.youtube.com/watch?v=6sQDTgOqh-I) - by Fun Fun Function
+ - [Arrow Functions (short syntax)](https://www.youtube.com/watch?v=2_B2U_zCj7Q) - by dcode
+ - [ES6 JavaScript Arrow Functions](https://www.youtube.com/watch?v=2v4bulVra-w) - by Steve Griffith
+ - [Arrow Functions - Beau teaches JavaScript](https://www.youtube.com/watch?v=22fyYvxz-do) - by freeCodeCamp.org
+ - [JavaScript ES6 / ES2015 - Arrow Functions](https://www.youtube.com/watch?v=u4URamXstM0) - by Traversy Media
+ - [ES6 arrow functions](https://www.youtube.com/watch?v=Lq0UbHdjlc4) - by TempleCoding
+
+### String & Number Methods
 
 #### Articles
 
+ - [ES6 in Action: New Number Methods - SitePoint](https://www.sitepoint.com/es6-number-methods/)
+ - [ES6 | New String Methods - GeeksforGeeks](https://www.geeksforgeeks.org/es6-new-string-methods/)
+ - [JavaScript Number Methods - W3Schools](https://www.w3schools.com/js/js_number_methods.asp)
+ - [ES6 - Number - Tutorialspoint](https://www.tutorialspoint.com/es6/es6_number.htm)
+ - [ES6 - Strings - Tutorialspoint](https://www.tutorialspoint.com/es6/es6_strings)
+ - 
 #### Videos
 
+ - [JavaScript ES6 / ES2015 - New String & Number Methods](https://www.youtube.com/watch?v=XGG-OY8pJqA) - by Traversy Media
+ - [Learn Javascript ES6 String and Number methods](https://www.youtube.com/watch?v=vca8efbwR8I) - by Code Marshal
+ - [Learn Javascript- Number Methods in Javascript](https://www.youtube.com/watch?v=XYT0SZNYcLg) - by Unacademy - Programming
+ - [Number methods and math objects in JavaScript](https://www.youtube.com/watch?v=zq9CF9G3Isw) - by mmtuts
+ - [20 String Methods in 7 Minutes](https://www.youtube.com/watch?v=VRz0nbax0uI) - freecodecamp.org
+ - 
 ### Classes and Inheritance
 
 #### Articles
@@ -434,4 +464,17 @@ A curated list of JavaScript resources for beginners
 
 #### Articles
 
+ - [Template literals (Template strings) - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Template_literals)
+- [JavaScript Template Literals](https://www.javascripttutorial.net/es6/javascript-template-literals/)
+- [JavaScript | template literals - GeeksforGeeks](https://www.geeksforgeeks.org/javascript-template-literals/)
+- [JavaScript — What are Template Literals - codeburst](https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3)
+- [An Introduction to ES6 Template Literals - DEV](https://dev.to/sarah_chima/an-introduction-to-es6-template-literals-94l)
+- [All you need to know about Template literals in ES6: JavaScript](https://buginit.com/javascript/all-you-need-to-know-about-template-literals/)
+- [What Are Template Literals In Javascript And Why You Should use them](https://hackernoon.com/what-are-template-literals-in-javascript-and-why-you-should-use-them-ese03yxu)
+
 #### Videos
+
+ - [Template Literals (ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=kj8HU-_P2NU) - by freeCodeCamp.org
+ - [JavaScript ES6 / ES2015 - Template Literals](https://www.youtube.com/watch?v=INPob8yPyBo) - by Traversy Media
+ - [JavaScript Template Literals](https://www.youtube.com/watch?v=NgF9-pdTDGs) - by Programming with Mosh
+ - [Template Literals in ES6](https://www.youtube.com/watch?v=svK04BoRY6w) - by Paul Halliday
