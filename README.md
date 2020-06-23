@@ -1,3 +1,4 @@
+
 <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="center" alt="JS Logo">
 
 # Awesome JavaScript 
@@ -17,7 +18,7 @@ A curated list of JavaScript resources for beginners
     - [Arrays](#arrays)
     - [Function](#function)
     - [Objects](#objects)
-    - [Conditions](#conditions)
+    - [Conditional Statement](#conditional-statement)
     - [Loops](#loops)
 - [ES6](#es6)
 	- [Introduction to ES6](#introduction-to-es6)
@@ -27,7 +28,7 @@ A curated list of JavaScript resources for beginners
 	- [New String & Number Methods](#new-strings-&-number-methods)
 	- [Classes and Inheritance](#classes-and-inheritance)
 	- [Let and Const Declaration](#let-and-const-declaration)
-	- [Default Param & Spread Operators](#default-param-&-spread-operators))
+	- [Default Param & Spread Operators](#default-param-&-spread-operators)
 	- [Map, Weakset & WeakMap](#map,weakset-&-weakmap)
 	- [Template Literals](#template-literals)
 
@@ -275,7 +276,16 @@ A curated list of JavaScript resources for beginners
 
 #### Articles
 
- - ...
+ - [JavaScript if else else if - W3Schools](https://www.w3schools.com/js/js_if_else.asp)
+ - [Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+ - [Conditionals | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow)
+ - [JavaScript Conditional Statements: IF, Else, Else IF](https://www.guru99.com/how-to-use-conditional-statements-in-javascript.html)
+ - [Conditional Statements in JavaScript | Study.com](https://study.com/academy/lesson/conditional-statements-in-javascript.html)
+ - [JavaScript - if...else Statement - Tutorialspoint](https://www.tutorialspoint.com/javascript/javascript_ifelse.htm)
+ - [JavaScript Conditionals: The Basics with Examples](https://www.javascript.com/learn/conditionals)
+ - [Conditional operators: if - JavaScript.info](https://javascript.info/ifelse)
+ - [Conditional Basics: Using If Statements in JavaScript](https://alligator.io/js/if-statements/)
+ - [if-else Statement in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/else-statement-javascript/)
 
 #### Videos
 
@@ -286,13 +296,97 @@ A curated list of JavaScript resources for beginners
  - [complex conditions](https://www.youtube.com/watch?v=G7Ynas6GLZ0) - by Quentin Watt Tutorials
  - [Conditionals (if statement)](https://www.youtube.com/watch?v=HQTUwz1slAQ) - by sentdex
 
-### Loops
+### Loops & Iteration
 
 *Detailed resources to perfectly understand Loops.*
 
 #### Articles
 
+ - [JavaScript for Loop - W3Schools](https://www.w3schools.com/js/js_loop_for.asp)
+ - [JavaScript while Loop - W3Schools](https://www.w3schools.com/Js/js_loop_while.asp)
+ - [Loops and iteration - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+ - [Loops in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/loops-in-javascript/)
+ - [JavaScript Array Iteration - W3Schools](https://www.w3schools.com/js/js_array_iteration.asp)
+ - [JavaScript Loops - javatpoint](https://www.javatpoint.com/javascript-loop)
+ - [JavaScript While, Do-While, For and For-In Loops - Tutorial Republic](https://www.tutorialrepublic.com/javascript-tutorial/javascript-loops.php)
+ - [JavaScript - For Loop - Tutorialspoint](https://www.tutorialspoint.com/javascript/javascript_for_loop.htm)
+ - [JavaScript Loops Explained: For Loop, While Loop, Do...while - freecodecamp.org](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
+ - [Exploring JavaScript Iteration - freeCodeCamp.org](https://www.freecodecamp.org/news/exploring-javascript-for-in-loops-bdfc226d8515/)
+ - [Ways of iterating over a array in JavaScript. - GeeksforGeeks](https://www.geeksforgeeks.org/ways-iterating-array-javascript/)
+ - [Looping JavaScript Arrays Using for, forEach & More](https://love2dev.com/blog/javascript-for-loop-foreach/)
+
 #### Videos
 
+ - # Search Results
+
+## Web results
+
+ - [JavaScript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ) - by Programming with Mosh
+ - [JavaScript Loops Tutorial for Beginners](https://www.youtube.com/watch?v=E6xX51Zcrl8) - by Clever Techie
+ - [For Loops - Beau teaches JavaScript](https://www.youtube.com/watch?v=24Wpg6njlYI) - by freeCodeCamp.org
+ - [JavaScript Loops](https://www.youtube.com/watch?v=rTDAAhUgJZM) - by Coding Journey
+ - [JavaScript Loops Made Easy](https://www.youtube.com/watch?v=Kn06785pkJg) - by codeSTACKr
+ - [JavaScript Tutorial | For Loop](https://www.youtube.com/watch?v=DIA0J4vJBHQ) - by Telusko
+ - [Using JavaScript forEach to Loop over an Array](https://www.youtube.com/watch?v=zF48zb631Lg) - by Love2Dev
 
 ## ES6
+
+### Introduction to ES6
+
+#### Articles
+
+#### Videos
+
+### Generators
+
+#### Articles
+
+#### Videos
+
+### Promises
+
+#### Articles
+
+#### Videos
+
+### Arrow Functions
+
+#### Articles
+
+#### Videos
+
+### New String & Number Methods
+
+#### Articles
+
+#### Videos
+
+### Classes and Inheritance
+
+#### Articles
+
+#### Videos
+
+### Let and Const Declaration
+
+#### Articles
+
+#### Videos
+
+### Default Param & Spread Operators
+
+#### Articles
+
+#### Videos
+
+### Map, Weakset & WeakMap
+
+#### Articles
+
+#### Videos
+
+### Template Literals
+
+#### Articles
+
+#### Videos
