@@ -317,10 +317,6 @@ A curated list of JavaScript resources for beginners
 
 #### Videos
 
- - # Search Results
-
-## Web results
-
  - [JavaScript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ) - by Programming with Mosh
  - [JavaScript Loops Tutorial for Beginners](https://www.youtube.com/watch?v=E6xX51Zcrl8) - by Clever Techie
  - [For Loops - Beau teaches JavaScript](https://www.youtube.com/watch?v=24Wpg6njlYI) - by freeCodeCamp.org
