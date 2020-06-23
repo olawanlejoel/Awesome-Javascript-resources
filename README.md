@@ -21,7 +21,7 @@ A curated list of JavaScript resources for beginners
     - [Conditional Statement](#conditional-statement)
     - [Loops](#loops)
 - [ES6](#es6)
-	- [Introduction to ES6](#introduction-to-es6)
+	- [Introduction to ECMAScript 6(ES6)](#introduction-to-es6)
 	- [Generators](#generators)
 	- [Promises](#promises)
 	- [Arrow Functions](#arrow-functions)
@@ -317,6 +317,10 @@ A curated list of JavaScript resources for beginners
 
 #### Videos
 
+ - # Search Results
+
+## Web results
+
  - [JavaScript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ) - by Programming with Mosh
  - [JavaScript Loops Tutorial for Beginners](https://www.youtube.com/watch?v=E6xX51Zcrl8) - by Clever Techie
  - [For Loops - Beau teaches JavaScript](https://www.youtube.com/watch?v=24Wpg6njlYI) - by freeCodeCamp.org
@@ -327,23 +331,68 @@ A curated list of JavaScript resources for beginners
 
 ## ES6
 
-### Introduction to ES6
+### Introduction to ECMAScript 6(ES6)
 
 #### Articles
 
+  - [ECMAScript 6 - W3Schools](https://www.w3schools.com/js/js_es6.asp)
+ - [Introduction To Es6 - Learn.co](https://learn.co/lessons/introduction-to-es6)
+ - [Introduction to ES6 - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-es6/)
+ - [Introduction to ES6 modules - Bolaji Ayodeji](https://bolajiayodeji.com/introduction-to-es6-modules-49956f580da)
+ - [ES6 Tutorial - JavaScript Tutorial](https://www.javascripttutorial.net/es6/)
+ - [ES6 Intro | LearnersBucket](https://learnersbucket.com/tutorials/es6/es6-intro/)
+
 #### Videos
+
+- [ES6 JavaScript Tutorial for Beginners - Getting Started](https://www.youtube.com/watch?v=IEf1KAcK6A8) - by Academind
+- [ES6 Tutorial - #1 Intro](https://www.youtube.com/watch?v=qYbURDUzTQM) - by Code Realm
+- [ES6 Tutorial 1: Introduction](https://www.youtube.com/watch?v=1L4L5cnni1c) - by codedamn
 
 ### Generators
 
 #### Articles
 
+ - [Understanding Generators in ES6 JavaScript with Examples](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
+ - [Iterators and generators - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+ - [Introduction to Generators in ES6 - CodinGame](https://www.codingame.com/playgrounds/6725/introduction-to-generators-in-es6)
+ - [Understanding Generators in ES6 Javascript - DEV](https://dev.to/phung_cz/understanding-generators-in-es6-javascript-7fm)
+ - [JavaScript Generators](https://www.javascripttutorial.net/es6/javascript-generators/)
+
 #### Videos
+
+- [JavaScript ES6 / ES2015 - Generators](https://www.youtube.com/watch?v=dcP039DYzmE) - by Traversy Media
+ - [JavaScript ES6 Tutorial - Generators](https://www.youtube.com/watch?v=Ojis8iFIjDQ) - by The Net Ninja
+ - [Using Generators in JavaScript ES6](https://www.youtube.com/watch?v=FNPRGDufaSk) - by Paul Halliday
+ - [Javascript Generators - THEY CHANGE EVERYTHING - ES6](https://www.youtube.com/watch?v=QO07THdLWQo) - by LearnCode.academy
+ - [JavaScript Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) - by Kyle Robinson Young
+ - [ES6 Iterator & Generator Fundamentals](https://www.youtube.com/watch?v=NoUPIQobeLw) - by Steve Griffith
 
 ### Promises
 
 #### Articles
 
+ - [Promise - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+ - [ES6 - Promises - Tutorialspoint](https://www.tutorialspoint.com/es6/es6_promises.htm#:~:text=Promises%20are%20a%20clean%20way,and%20its%20implementation%2C%20using%20Callbacks.)
+ - [A Simple Guide to ES6 Promises - codeburst](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
+ - [JavaScript Promises: An introduction - Web.dev](https://web.dev/promises/)
+ - [Promises in JavaScript with ES6 / ES2015 ← Alligator.io](https://alligator.io/js/promises-es6/)
+ - [ES6 | Promises - GeeksforGeeks](https://www.geeksforgeeks.org/es6-promises/)
+ - [The Definitive Guide to the JavaScript Promises](https://www.javascripttutorial.net/es6/javascript-promises/)
+ - [ES6 Promises in Depth - Pony Foo](https://ponyfoo.com/articles/es6-promises-in-depth)
+ - [JavaScript Promise Tutorial: Resolve, Reject, and Chaining explained](https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-reject-and-chaining-explained/)
+ - [Promises for asynchronous programming - Exploring JS](https://exploringjs.com/es6/ch_promises.html)
+ - [Promise - JavaScript.info](https://javascript.info/promise-basics)
+ - [Promises chaining - JavaScript.info](https://javascript.info/promise-chaining)
+ - [JavaScript Promises for Dummies ― Scotch.io](https://scotch.io/tutorials/javascript-promises-for-dummies)
+
 #### Videos
+
+ - [JavaScript ES6 / ES2015 -  Promises](https://www.youtube.com/watch?v=XJEHuBZQ5dU) - by Traversy Media
+ - [JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E) - by Web Dev Simplified
+ - [ES6 Promises - JavaScript](https://www.youtube.com/watch?v=490Hhpqaho4) - by Paul Halliday
+ - [Promise In JavaScript ES6](https://www.youtube.com/watch?v=65tbETkrxxM) - by Cheezy Code
+ - [JavaScript promises explained tutorial](https://www.youtube.com/watch?v=s6SH72uAn3Q&vl=en) - by techsith
+ - [ES6 Tutorial - Promises (then / catch)](https://www.youtube.com/watch?v=Hfqqe0CWbCQ) - by Code Realm
 
 ### Arrow Functions
 
