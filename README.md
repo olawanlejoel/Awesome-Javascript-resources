@@ -439,8 +439,22 @@ A curated list of JavaScript resources for beginners
 ### Classes and Inheritance
 
 #### Articles
+- [Classes and Inheritance: JavaScript ES6 Feature Series](https://itnext.io/classes-and-inheritance-javascript-es6-feature-series-part-8-4a81fa3adf0f)
+- [Classes - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
+- [Class inheritance - JavaScript.info](https://javascript.info/class-inheritance)
+- [Understanding ECMAScript 6: Class and Inheritance - SitePoint](https://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/)
+- [JavaScript Inheritance Using extends And spper Keywords](https://www.javascripttutorial.net/es6/javascript-inheritance/)
+- [Inheritance in JavaScript - TutorialsTeacher](https://www.tutorialsteacher.com/javascript/inheritance-in-javascript)
 
 #### Videos
+
+ - [JavaScript ES6 / ES2015 - Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc) - by Traversy Media
+ - [Inheritance in JavaScript](https://www.youtube.com/watch?v=MfxBfRD0FVU) - by The Coding Train
+ - [ES6 Tutorial - Classes](https://www.youtube.com/watch?v=2wWq6e6jz0g) - by Code Realm
+ - [JavaScript ES6 - Classes](https://www.youtube.com/watch?v=MsbNJPsjD-w) - by Nodecasts
+ - [Object Oriented JavaScript Tutorial - Class Inheritance](https://www.youtube.com/watch?v=_cgBvtYT3fQ) - by The Net Ninja
+ - [JavaScript Classes : Inheritance & Extends](https://www.youtube.com/watch?v=fQ1oNTRdByA) - by dcode
+ - [JavaScript ES6 : class , method and inheritance](https://www.youtube.com/watch?v=CqEeUJ-h34c) - by Tutplus24
 
 ### Let and Const Declaration
 
