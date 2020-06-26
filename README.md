@@ -459,8 +459,20 @@ A curated list of JavaScript resources for beginners
 ### Let and Const Declaration
 
 #### Articles
+- [const - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/const)
+- [Let and Const in JavaScript with ES6 / ES2015 ← Alligator.io](https://alligator.io/js/let-const-variables-es6/)
+- [ES6 in Action: let and const - SitePoint](https://www.sitepoint.com/es6-let-const/)
+- [Declaring JavaScript Variables: var, let and const ― Scotch.io](https://scotch.io/courses/10-need-to-know-javascript-concepts/declaring-javascript-variables-var-let-and-const)
+- [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
+- [JavaScript ES6 Variable Declarations with let and const](https://strongloop.github.io/strongloop.com/strongblog/es6-variable-declarations/)
+- [Breaking Down ES6: let and const - DEV](https://dev.to/torianne02/breaking-down-es6-let-and-const-1al6)
 
 #### Videos
+- [JavaScript ES6 / ES2015 - Let and Const Declaration](https://www.youtube.com/watch?v=KWUcTt15fQs) - by Traversy Media
+- [var, let and const - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8) - by Fun Fun Function
+- [var, let and const in Javascript explained](https://www.youtube.com/watch?v=nmwEG_fpZlk) - by Coding Blocks
+- [How to Code - JavaScript Const and Let](https://www.youtube.com/watch?v=Vy-uh6T5G4I) - by OpenCanvas
+- [JavaScript ES6 - var, let and const](https://www.youtube.com/watch?v=1sHq04erG9o) - by Nodecasts
 
 ### Default Param & Spread Operators
 
@@ -471,8 +483,19 @@ A curated list of JavaScript resources for beginners
 ### Map, Weakset & WeakMap
 
 #### Articles
+- [ES6 Collections: Using Map, Set, WeakMap, WeakSet](https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/)
+- [WeakMap - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
+- [Keyed Collections in JavaScript: Set vs Map vs WeakSet vs WeakMap](https://medium.com/@jimmyfarillo/keyed-collections-in-javascript-set-vs-map-vs-weakset-vs-weakmap-f50d86052da2)
+- [ES6 — set, map, weak - ECMAScript 2015 - Medium](https://medium.com/ecmascript-2015/es6-set-map-weak-a2aeb7e2d384)
+- [Maps and Sets - Exploring JS](https://exploringjs.com/es6/ch_maps-sets.html)
 
 #### Videos
+
+- [JavaScript ES6 / ES2015 - [08] Set, Map, WeakSet](https://www.youtube.com/watch?v=ycohYSx5h9w) - by Traversy Media
+- [JavaScript ES6 : Set, Map, WeakSet , WeakMap](https://www.youtube.com/watch?v=Zfc7F-_ivlw) - by Tutplus24
+- [JavaScript Set vs Map vs WeakSet vs WeakMap](https://www.youtube.com/watch?v=imLC6oVh6bQ) - by Typing Turtle
+- [ES6 Tutorial 15: Weakmaps](https://www.youtube.com/watch?v=_QbWw_HD84I) - by codedamn
+- [Map, Set, WeakMap & WeakSet in JavaScript](https://www.youtube.com/watch?v=rMmnFYvqKtw) - by JS Helper
 
 ### Template Literals
 
