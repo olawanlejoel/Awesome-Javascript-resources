@@ -28,7 +28,6 @@ A curated list of JavaScript resources for beginners
 	- [New String & Number Methods](#new-strings-&-number-methods)
 	- [Classes and Inheritance](#classes-and-inheritance)
 	- [Let and Const Declaration](#let-and-const-declaration)
-	- [Default Param & Spread Operators](#default-param-&-spread-operators)
 	- [Map, Weakset & WeakMap](#map,weakset-&-weakmap)
 	- [Template Literals](#template-literals)
 
@@ -473,12 +472,6 @@ A curated list of JavaScript resources for beginners
 - [var, let and const in Javascript explained](https://www.youtube.com/watch?v=nmwEG_fpZlk) - by Coding Blocks
 - [How to Code - JavaScript Const and Let](https://www.youtube.com/watch?v=Vy-uh6T5G4I) - by OpenCanvas
 - [JavaScript ES6 - var, let and const](https://www.youtube.com/watch?v=1sHq04erG9o) - by Nodecasts
-
-### Default Param & Spread Operators
-
-#### Articles
-
-#### Videos
 
 ### Map, Weakset & WeakMap
 
