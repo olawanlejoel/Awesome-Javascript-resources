@@ -110,7 +110,6 @@ A curated list of JavaScript resources for beginners
  - [JavaScript Data Types - Tutorial Republic](https://www.tutorialrepublic.com/javascript-tutorial/javascript-data-types.php)
  - [JavaScript data types - javatpoint](https://www.javatpoint.com/javascript-data-types)
  - [Variables and Datatypes in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/variables-datatypes-javascript/)
- - [React State 5 Ways](https://dev.to/dabit3/react-state-6-ways-2bem)
 
 #### Videos
 
