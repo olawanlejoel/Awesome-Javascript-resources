@@ -5,6 +5,10 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
+JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browsers. JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+
+List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesome-jamstack)
+
 A curated list of JavaScript resources for beginners
 
 - [Basic JavaScript](#basic-JavaScript)
