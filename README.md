@@ -1,5 +1,5 @@
+[<img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" align="right" width="125">](https://github.com/zeit/next.js)
 
-<img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="center" alt="JS Logo">
 
 # Awesome JavaScript 
 
