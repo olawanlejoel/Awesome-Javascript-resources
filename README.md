@@ -34,6 +34,8 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 	- [Let and Const Declaration](#let-and-const-declaration)
 	- [Map, Weakset & WeakMap](#map,weakset-&-weakmap)
 	- [Template Literals](#template-literals)
+- JavaScript projects for beginners
+
 
 ## Basic JavaScript
     
@@ -319,11 +321,7 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
  - [Looping JavaScript Arrays Using for, forEach & More](https://love2dev.com/blog/javascript-for-loop-foreach/)
 
 #### Videos
-
- - # Search Results
-
-## Web results
-
+ 
  - [JavaScript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ) - by Programming with Mosh
  - [JavaScript Loops Tutorial for Beginners](https://www.youtube.com/watch?v=E6xX51Zcrl8) - by Clever Techie
  - [For Loops - Beau teaches JavaScript](https://www.youtube.com/watch?v=24Wpg6njlYI) - by freeCodeCamp.org
@@ -338,7 +336,7 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 
 #### Articles
 
-  - [ECMAScript 6 - W3Schools](https://www.w3schools.com/js/js_es6.asp)
+ - [ECMAScript 6 - W3Schools](https://www.w3schools.com/js/js_es6.asp)
  - [Introduction To Es6 - Learn.co](https://learn.co/lessons/introduction-to-es6)
  - [Introduction to ES6 - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-es6/)
  - [Introduction to ES6 modules - Bolaji Ayodeji](https://bolajiayodeji.com/introduction-to-es6-modules-49956f580da)
@@ -347,9 +345,9 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 
 #### Videos
 
-- [ES6 JavaScript Tutorial for Beginners - Getting Started](https://www.youtube.com/watch?v=IEf1KAcK6A8) - by Academind
-- [ES6 Tutorial - #1 Intro](https://www.youtube.com/watch?v=qYbURDUzTQM) - by Code Realm
-- [ES6 Tutorial 1: Introduction](https://www.youtube.com/watch?v=1L4L5cnni1c) - by codedamn
+ - [ES6 JavaScript Tutorial for Beginners - Getting Started](https://www.youtube.com/watch?v=IEf1KAcK6A8) - by Academind
+ - [ES6 Tutorial - #1 Intro](https://www.youtube.com/watch?v=qYbURDUzTQM) - by Code Realm
+ - [ES6 Tutorial 1: Introduction](https://www.youtube.com/watch?v=1L4L5cnni1c) - by codedamn
 
 ### Generators
 
@@ -363,7 +361,7 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 
 #### Videos
 
-- [JavaScript ES6 / ES2015 - Generators](https://www.youtube.com/watch?v=dcP039DYzmE) - by Traversy Media
+ - [JavaScript ES6 / ES2015 - Generators](https://www.youtube.com/watch?v=dcP039DYzmE) - by Traversy Media
  - [JavaScript ES6 Tutorial - Generators](https://www.youtube.com/watch?v=Ojis8iFIjDQ) - by The Net Ninja
  - [Using Generators in JavaScript ES6](https://www.youtube.com/watch?v=FNPRGDufaSk) - by Paul Halliday
  - [Javascript Generators - THEY CHANGE EVERYTHING - ES6](https://www.youtube.com/watch?v=QO07THdLWQo) - by LearnCode.academy
@@ -462,49 +460,49 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 ### Let and Const Declaration
 
 #### Articles
-- [const - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/const)
-- [Let and Const in JavaScript with ES6 / ES2015 ← Alligator.io](https://alligator.io/js/let-const-variables-es6/)
-- [ES6 in Action: let and const - SitePoint](https://www.sitepoint.com/es6-let-const/)
-- [Declaring JavaScript Variables: var, let and const ― Scotch.io](https://scotch.io/courses/10-need-to-know-javascript-concepts/declaring-javascript-variables-var-let-and-const)
-- [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
-- [JavaScript ES6 Variable Declarations with let and const](https://strongloop.github.io/strongloop.com/strongblog/es6-variable-declarations/)
-- [Breaking Down ES6: let and const - DEV](https://dev.to/torianne02/breaking-down-es6-let-and-const-1al6)
+ - [const - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/const)
+ - [Let and Const in JavaScript with ES6 / ES2015 ← Alligator.io](https://alligator.io/js/let-const-variables-es6/)
+ - [ES6 in Action: let and const - SitePoint](https://www.sitepoint.com/es6-let-const/)
+ - [Declaring JavaScript Variables: var, let and const ― Scotch.io](https://scotch.io/courses/10-need-to-know-javascript-concepts/declaring-javascript-variables-var-let-and-const)
+ - [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
+ - [JavaScript ES6 Variable Declarations with let and const](https://strongloop.github.io/strongloop.com/strongblog/es6-variable-declarations/)
+ - [Breaking Down ES6: let and const - DEV](https://dev.to/torianne02/breaking-down-es6-let-and-const-1al6)
 
 #### Videos
-- [JavaScript ES6 / ES2015 - Let and Const Declaration](https://www.youtube.com/watch?v=KWUcTt15fQs) - by Traversy Media
-- [var, let and const - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8) - by Fun Fun Function
-- [var, let and const in Javascript explained](https://www.youtube.com/watch?v=nmwEG_fpZlk) - by Coding Blocks
-- [How to Code - JavaScript Const and Let](https://www.youtube.com/watch?v=Vy-uh6T5G4I) - by OpenCanvas
-- [JavaScript ES6 - var, let and const](https://www.youtube.com/watch?v=1sHq04erG9o) - by Nodecasts
+ - [JavaScript ES6 / ES2015 - Let and Const Declaration](https://www.youtube.com/watch?v=KWUcTt15fQs) - by Traversy Media
+ - [var, let and const - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8) - by Fun Fun Function
+ - [var, let and const in Javascript explained](https://www.youtube.com/watch?v=nmwEG_fpZlk) - by Coding Blocks
+ - [How to Code - JavaScript Const and Let](https://www.youtube.com/watch?v=Vy-uh6T5G4I) - by OpenCanvas
+ - [JavaScript ES6 - var, let and const](https://www.youtube.com/watch?v=1sHq04erG9o) - by Nodecasts
 
 ### Map, Weakset & WeakMap
 
 #### Articles
-- [ES6 Collections: Using Map, Set, WeakMap, WeakSet](https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/)
-- [WeakMap - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
-- [Keyed Collections in JavaScript: Set vs Map vs WeakSet vs WeakMap](https://medium.com/@jimmyfarillo/keyed-collections-in-javascript-set-vs-map-vs-weakset-vs-weakmap-f50d86052da2)
-- [ES6 — set, map, weak - ECMAScript 2015 - Medium](https://medium.com/ecmascript-2015/es6-set-map-weak-a2aeb7e2d384)
-- [Maps and Sets - Exploring JS](https://exploringjs.com/es6/ch_maps-sets.html)
+ - [ES6 Collections: Using Map, Set, WeakMap, WeakSet](https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/)
+ - [WeakMap - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
+ - [Keyed Collections in JavaScript: Set vs Map vs WeakSet vs WeakMap](https://medium.com/@jimmyfarillo/keyed-collections-in-javascript-set-vs-map-vs-weakset-vs-weakmap-f50d86052da2)
+ - [ES6 — set, map, weak - ECMAScript 2015 - Medium](https://medium.com/ecmascript-2015/es6-set-map-weak-a2aeb7e2d384)
+ - [Maps and Sets - Exploring JS](https://exploringjs.com/es6/ch_maps-sets.html)
 
 #### Videos
 
-- [JavaScript ES6 / ES2015 - [08] Set, Map, WeakSet](https://www.youtube.com/watch?v=ycohYSx5h9w) - by Traversy Media
-- [JavaScript ES6 : Set, Map, WeakSet , WeakMap](https://www.youtube.com/watch?v=Zfc7F-_ivlw) - by Tutplus24
-- [JavaScript Set vs Map vs WeakSet vs WeakMap](https://www.youtube.com/watch?v=imLC6oVh6bQ) - by Typing Turtle
-- [ES6 Tutorial 15: Weakmaps](https://www.youtube.com/watch?v=_QbWw_HD84I) - by codedamn
-- [Map, Set, WeakMap & WeakSet in JavaScript](https://www.youtube.com/watch?v=rMmnFYvqKtw) - by JS Helper
+ - [JavaScript ES6 / ES2015 - [08] Set, Map, WeakSet](https://www.youtube.com/watch?v=ycohYSx5h9w) - by Traversy Media
+ - [JavaScript ES6 : Set, Map, WeakSet , WeakMap](https://www.youtube.com/watch?v=Zfc7F-_ivlw) - by Tutplus24
+ - [JavaScript Set vs Map vs WeakSet vs WeakMap](https://www.youtube.com/watch?v=imLC6oVh6bQ) - by Typing Turtle
+ - [ES6 Tutorial 15: Weakmaps](https://www.youtube.com/watch?v=_QbWw_HD84I) - by codedamn
+ - [Map, Set, WeakMap & WeakSet in JavaScript](https://www.youtube.com/watch?v=rMmnFYvqKtw) - by JS Helper
 
 ### Template Literals
 
 #### Articles
 
  - [Template literals (Template strings) - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Template_literals)
-- [JavaScript Template Literals](https://www.javascripttutorial.net/es6/javascript-template-literals/)
-- [JavaScript | template literals - GeeksforGeeks](https://www.geeksforgeeks.org/javascript-template-literals/)
-- [JavaScript — What are Template Literals - codeburst](https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3)
-- [An Introduction to ES6 Template Literals - DEV](https://dev.to/sarah_chima/an-introduction-to-es6-template-literals-94l)
-- [All you need to know about Template literals in ES6: JavaScript](https://buginit.com/javascript/all-you-need-to-know-about-template-literals/)
-- [What Are Template Literals In Javascript And Why You Should use them](https://hackernoon.com/what-are-template-literals-in-javascript-and-why-you-should-use-them-ese03yxu)
+ - [JavaScript Template Literals](https://www.javascripttutorial.net/es6/javascript-template-literals/)
+ - [JavaScript | template literals - GeeksforGeeks](https://www.geeksforgeeks.org/javascript-template-literals/)
+ - [JavaScript — What are Template Literals - codeburst](https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3)
+ - [An Introduction to ES6 Template Literals - DEV](https://dev.to/sarah_chima/an-introduction-to-es6-template-literals-94l)
+ - [All you need to know about Template literals in ES6: JavaScript](https://buginit.com/javascript/all-you-need-to-know-about-template-literals/)
+ - [What Are Template Literals In Javascript And Why You Should use them](https://hackernoon.com/what-are-template-literals-in-javascript-and-why-you-should-use-them-ese03yxu)
 
 #### Videos
 
