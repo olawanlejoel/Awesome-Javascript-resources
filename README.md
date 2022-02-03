@@ -11,6 +11,7 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 
 > A curated list of JavaScript resources for beginners
 
+## Table of Contents
 - [Basic JavaScript](#basic-JavaScript)
     - [Introduction to JavaScript](#introduction-to-JavaScript)
     - [Comments in JavaScript](#comments-in-JavaScript)
@@ -38,6 +39,7 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 
 
 ## Basic JavaScript
+As a beginner it is very mandatory you understand JavaScript's basics before proceeding to ES6.
     
 ### Introduction to JavaScript
 
