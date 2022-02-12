@@ -1,4 +1,4 @@
-# Awesome JavaScript 
+# Awesome JavaScript Resources
 
 ![Cover Image](https://user-images.githubusercontent.com/57611810/153705584-cd084aeb-1966-4790-a2e4-9ae3c1efd1b3.jpg)
 
