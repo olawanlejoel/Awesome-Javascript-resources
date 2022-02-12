@@ -36,7 +36,7 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 	- [Let and Const Declaration](#let-and-const-declaration)
 	- [Map, Weakset & WeakMap](#map,weakset-&-weakmap)
 	- [Template Literals](#template-literals)
-- JavaScript projects for beginners
+- [JavaScript projects for beginners](#javaScript-projects-for-beginners)
 
 
 ---
