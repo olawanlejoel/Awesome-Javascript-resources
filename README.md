@@ -1,6 +1,3 @@
-<img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" align="right" width="150">
-
-
 # Awesome JavaScript 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
@@ -9,12 +6,13 @@ JavaScript is an object-oriented computer programming language commonly used to 
 
 _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesome-jamstack)_
 
-> A curated list of JavaScript resources for beginners
+> A curated list of JavaScript resources for beginners. Please note that for each section, there will be so many links to both videos and articles, so You get to use anyone you prefer, as they almost convey the same message. I decided to add so many links, so you get to understand these topics from different angles written/taught by different writers/creators.
 
 ## Table of Contents
-- [Basic JavaScript](#basic-JavaScript)
-    - [Introduction to JavaScript](#introduction-to-JavaScript)
-    - [Comments in JavaScript](#comments-in-JavaScript)
+- [JavaScript Crash Courses](#javaScript-crash-courses)
+- [Basic JavaScript](#basic-javaScript)
+    - [Introduction to JavaScript](#introduction-to-javaScript)
+    - [Comments in JavaScript](#comments-in-javaScript)
     - [Variable Declaration](#variable-declaration)
     - [Data Types](#data-types)
     - [Operators in JavaScript](#operators-in-javascript)
@@ -37,6 +35,22 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 	- [Template Literals](#template-literals)
 - JavaScript projects for beginners
 
+
+---
+
+## JavaScript Crash Courses
+
+*Here are some complete JavaScript videos and guides to help you understand JavaScript as a whole. After you've taken the time to watch these videos or read through these guides, you can now move on to understanding individual concepts for a broader understanding.*
+
+#### Articles
+ - [Learn JavaScript – Free JS Courses for Beginners - Freecodecamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+
+#### Videos
+ - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) - by Traversy Media
+ - [JavaScript Programming - Full course](https://www.youtube.com/watch?v=jS4aFq5-91M) - by Freecodecamp.org
+ - [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - by Clever Programmer
+
+---
 
 ## Basic JavaScript
 As a beginner it is very mandatory you understand JavaScript's basics before proceeding to ES6.
@@ -332,6 +346,8 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
  - [JavaScript Tutorial | For Loop](https://www.youtube.com/watch?v=DIA0J4vJBHQ) - by Telusko
  - [Using JavaScript forEach to Loop over an Array](https://www.youtube.com/watch?v=zF48zb631Lg) - by Love2Dev
 
+---
+
 ## ES6
 
 ### Introduction to ECMAScript 6(ES6)
@@ -512,3 +528,10 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
  - [JavaScript ES6 / ES2015 - Template Literals](https://www.youtube.com/watch?v=INPob8yPyBo) - by Traversy Media
  - [JavaScript Template Literals](https://www.youtube.com/watch?v=NgF9-pdTDGs) - by Programming with Mosh
  - [Template Literals in ES6](https://www.youtube.com/watch?v=svK04BoRY6w) - by Paul Halliday
+
+
+---
+
+## JavaScript projects for beginners
+
+- [Build 15 JavaScript Projects with Vanilla JavaScript](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=5s) - by Freecodecamp.org 
