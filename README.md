@@ -1,6 +1,7 @@
 # Awesome JavaScript 
 
-![Cover image](https://imgur.com/HlRAmtO)
+![Cover Image](https://user-images.githubusercontent.com/57611810/153705584-cd084aeb-1966-4790-a2e4-9ae3c1efd1b3.jpg)
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
