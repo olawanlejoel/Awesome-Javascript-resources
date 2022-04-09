@@ -7,8 +7,6 @@
 
 JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browsers. JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-_List inspired by the [Awesome JamStack](https://github.com/BolajiAyodeji/awesome-jamstack)_
-
 > A curated list of JavaScript resources for beginners. Please note that for each section, there will be so many links to both videos and articles, so you get to use anyone you prefer, as they almost convey the same message. I decided to add so many links, so you get to understand these topics from different angles written/taught by different writers/creators.
 
 <details>
