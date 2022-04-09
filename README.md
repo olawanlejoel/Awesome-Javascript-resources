@@ -967,4 +967,6 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
 </details>
 
 
+## Contributing
+Found an awesome JavaScript resource? Kindly send a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
