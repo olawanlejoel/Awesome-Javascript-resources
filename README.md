@@ -7,39 +7,9 @@
 
 JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browsers. JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-_List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesome-jamstack)_
+_List inspired by the [Awesome JamStack](https://github.com/BolajiAyodeji/awesome-jamstack)_
 
 > A curated list of JavaScript resources for beginners. Please note that for each section, there will be so many links to both videos and articles, so you get to use anyone you prefer, as they almost convey the same message. I decided to add so many links, so you get to understand these topics from different angles written/taught by different writers/creators.
-
-<!-- ## Table of Contents
-- [JavaScript Crash Courses](#javaScript-crash-courses)
-- [Basic JavaScript](#basic-javaScript)
-    - [Introduction to JavaScript](#introduction-to-javaScript)
-    - [Comments in JavaScript](#comments-in-javaScript)
-    - [Variable Declaration](#variable-declaration)
-    - [Data Types](#data-types)
-    - [Operators in JavaScript](#operators-in-javascript)
-    - [Strings](#strings)
-    - [Concatenation](#concatenation)
-    - [Arrays](#arrays)
-    - [Function](#function)
-    - [Objects](#objects)
-    - [Conditional Statement](#conditional-statement)
-    - [Loops](#loops)
-- [ES6](#es6)
-	- [Introduction to ECMAScript 6(ES6)](#introduction-to-es6)
-	- [Generators](#generators)
-	- [Promises](#promises)
-	- [Arrow Functions](#arrow-functions)
-	- [New String & Number Methods](#new-strings-&-number-methods)
-	- [Classes and Inheritance](#classes-and-inheritance)
-	- [Let and Const Declaration](#let-and-const-declaration)
-	- [Map, Weakset & WeakMap](#map,weakset-&-weakmap)
-	- [Template Literals](#template-literals)
-- [JavaScript projects for beginners](#javaScript-projects-for-beginners) -->
-
-
----
 
 <details>
   <summary>
@@ -74,6 +44,7 @@ _List inspired by the [awesome JamStack](https://github.com/BolajiAyodeji/awesom
 </details>
     
 </details>
+	  
 ---
 
 ## Basic JavaScript
