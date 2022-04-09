@@ -18,8 +18,8 @@ Ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple, but descriptive.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- New categories or improvements to the existing `Table of Contents` are welcome.
-- Pull requests should have a useful title and description.
+- New categories or improvements to the existing sections we have now are welcome.
+- Pull requests should have a meaningful title and description.
 - The body of your commit message should contain a link to the resource.
 
 Thank you for your suggestion!
