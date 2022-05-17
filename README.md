@@ -87,7 +87,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
 </details>
     
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Comments in JavaScript
@@ -124,7 +126,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Variable Declaration
@@ -171,7 +175,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Data Types
@@ -212,7 +218,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Operators in JavaScript
@@ -254,7 +262,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Strings
@@ -297,7 +307,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Concatenation
@@ -336,7 +348,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Arrays
@@ -383,7 +397,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Function
@@ -432,7 +448,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Objects
@@ -480,7 +498,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Conditional Statements
@@ -526,7 +546,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Loops & Iteration
@@ -617,8 +639,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
-
+	
+---
+	
 <details>
   <summary>
     Generators
@@ -657,7 +680,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Promises
@@ -704,7 +729,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Arrow Functions
@@ -752,8 +779,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
-
+	
+---
+	
 <details>
   <summary>
     String & Number Methods
@@ -791,7 +819,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Classes and Inheritance
@@ -832,8 +862,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
-
+	
+---
+	
 <details>
   <summary>
     Let and Const Declaration
@@ -873,7 +904,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
+	
+---
+	
 <details>
   <summary>
     Map, Weakset & WeakMap
@@ -911,8 +944,9 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
     
 </details>
 </details>
-
-
+	
+---
+	
 <details>
   <summary>
     Template Literals
@@ -953,6 +987,8 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
 </details>
 
 ---
+	
+## JavaScript Projects
 <details>
   <summary>
     JavaScript projects for beginners
