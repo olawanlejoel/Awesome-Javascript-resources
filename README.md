@@ -479,6 +479,7 @@ As a beginner it is very mandatory you understand JavaScript's basics before pro
  - [Working with Javascript Objects and Arrays | UniversalClass](https://www.universalclass.com/articles/computers/javascript/working-with-javascript-objects-and-arrays.htm)
  - [How To Use Object Methods in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript)
  - [A Deeper Look at Objects in JavaScript - Kirupa](https://www.kirupa.com/html5/a_deeper_look_at_objects_in_javascript.htm)
+ - [Compare JSON: Object Keys, Array Order and Record IDs - BestJSON](https://bestjson.com/learn/compare-json-ignore-order)
     
 </details>
 
